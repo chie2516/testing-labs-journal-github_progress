@@ -14,8 +14,9 @@ Run:
 ### Questions
 
 1.  How many users exist on the system?
-2.  Which accounts appear to be system accounts?
-3.  Why do operating systems create system accounts?
+ans: 
+3.  Which accounts appear to be system accounts?
+4.  Why do operating systems create system accounts?
 
 ### Reflection
 
