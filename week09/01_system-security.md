@@ -8,7 +8,8 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1280" height="1212" alt="cat" src="https://github.com/user-attachments/assets/a3f83b34-0c1d-4da1-a2c4-376cc01c7823" />
+
 
 ### Questions
 
@@ -30,7 +31,7 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+
 
 ### Questions
 
@@ -52,7 +53,7 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="4160" height="915" alt="ss tuln" src="https://github.com/user-attachments/assets/f7e311b3-292a-4f15-a1fa-c95e091b9cc8" />
 
 ### Questions
 
