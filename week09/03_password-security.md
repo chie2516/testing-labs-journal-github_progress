@@ -8,16 +8,20 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1280" height="1155" alt="echo" src="https://github.com/user-attachments/assets/5067ba36-8e26-48ab-ab04-df28453e729a" />
 
 ### Questions
 
 1.  What does the tool say about the password?
-2.  Why is this password weak?
+ans: The tool indicates that the password "password123" is based on a dictionary word, which means it is weak and can be guessed or cracked more easily than a strong password.
+
+3.  Why is this password weak?
+ans: The password is weak because it uses the common word "password", which appears in many password dictionaries used by attackers. It also follows a predictable pattern by simply adding numbers to the end, making it easier to guess or crack through dictionary and brute-force attacks.
 
 ### Reflection
 
 Explain why weak passwords are dangerous.
+ans: Weak passwords are dangerous because they can be easily guessed or cracked by attackers. If someone gains access to a password, they may be able to access personal information, files, or accounts without permission. This can lead to data theft, privacy breaches, and unauthorized changes to important systems.
 
 ------------------------------------------------------------------------
 
@@ -29,7 +33,7 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+
 
 ### Questions
 
