@@ -3,7 +3,7 @@
 > Fill in every section. Be precise, cite where relevant, and keep it concise.
 
 ## 0) Group & Roles
-- Group members: `Name A`, `Name B`, `Name C`
+- Group members: `Yasoda`, `Karina`, `Name C`
 - Roles (first half → second half):  
   - Research Lead: `Name` → `Name`  
   - Discussion Lead: `Name` → `Name`  
