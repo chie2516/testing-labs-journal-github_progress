@@ -5,12 +5,12 @@
 ## 0) Group & Roles
 - Group members: `Yasoda`, `Karina`, 
 - Roles (first half → second half):  
-  - Research Lead: `Name` → `Name`  
+  - Research Lead: `Yasoda` → ``  
   - Discussion Lead: `Name` → `Name`  
   - Scribe & Synthesiser: `Name` → `Name`
 
 ## 1) Case Summary (≤150 words)
-- **Case title:** `CASE-X`
+- **:** `CASE-X`
 - **One-sentence summary:**  
 - **Key context & facts (bullet points):**
   - 
