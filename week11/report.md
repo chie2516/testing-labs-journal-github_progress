@@ -10,8 +10,9 @@
   - Scribe & Synthesiser: `Name` → `Name`
 
 ## 1) Case Summary (≤150 words)
-- **:** `CASE-X`
-- **One-sentence summary:**  
+- **:** `CASE-1`
+- **One-sentence summary:**
+ans: BrightHire’s AI hiring system improved recruitment efficiency but unintentionally discriminated against older applicants and career changers by learning biased patterns from past hiring data. 
 - **Key context & facts (bullet points):**
   - 
   - 
